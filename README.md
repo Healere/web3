@@ -1,4 +1,4 @@
-![image](https://github.com/Healere/web3/assets/111050188/b333a2de-4e2a-4e5a-8db6-375496ee47db)# 系统环境：vue3+vant,solidaty(remix在线编辑器)，metamask钱包
+# 系统环境：vue3+vant,solidaty(remix在线编辑器)，metamask钱包
 # 安装方法：
 `1. 克隆本项目到本地
 
